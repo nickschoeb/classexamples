@@ -1,0 +1,5 @@
+People Example,,,,,
+,varchar,varchar,varchar,int,double
+PK,LastName,MiddleName,FirstName,PhoneNumber,HourlyRate
+1,Gray,K,Robin,1234567890,1.25
+2,Smith,John,Jim,9876554321,10.5
